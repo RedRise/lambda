@@ -1,0 +1,4 @@
+to install this package please follow the next two steps:
+A/ download lambda_1.0.tar.gz
+B/ open an R shell, and call:
+    install.package('lambda_1.0.tar.gz', source=TRUE, repos=NULL )
